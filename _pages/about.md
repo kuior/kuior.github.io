@@ -9,9 +9,9 @@ profile:
   image: ZHL.PNG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>RFEB 314F</p>
+    <p>6300 Ocean Dr</p>
+    <p>Corpus Christi, TX 78412</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
