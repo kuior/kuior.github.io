@@ -13,9 +13,9 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 I am an Assistant Professional Professor of Computer Science at Texas A&M University-Corpus Christi. Previously, I was pursing my Ph.D. in the Department of Computer Science at the University of North Carolina at Charlotte. My research interests focus on Machine Learning, NLP, and applying state-of-the-art AI techniques to analyze various modalities of data.
