@@ -5,9 +5,9 @@ permalink: /
 subtitle: <a href='#'></a>
 
 profile:
-  align: left
+  align: right
   image: ZHL.PNG
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>RFEB 314F</p>
     <p>6300 Ocean Dr</p>
