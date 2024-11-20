@@ -2,12 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Course I teach
 nav: true
 nav_order: 2
 ---
 
-Courses I teach:
 Programming for Scientists, EN (TAMU-CC, COSC 1330) - Spring 2025, Fall 2024, Spring 2024, Fall 2023
 
 Machine Learning (TAMU-CC, COSC 6338) - Spring 2025, Fall 2024, Spring 2024, Fall 2023
