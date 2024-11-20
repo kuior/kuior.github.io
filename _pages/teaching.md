@@ -4,9 +4,16 @@ permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Courses I teach:
+Programming for Scientists, EN (TAMU-CC, COSC 1330) - Spring 2025, Fall 2024, Spring 2024, Fall 2023
 
-Organize your courses by years, topics, or universities, however you like!
+Machine Learning (TAMU-CC, COSC 6338) - Spring 2025, Fall 2024, Spring 2024, Fall 2023
+
+Computer Vision (TAMU-CC, COSC 6326) - Spring 2025, Fall 2024, Spring 2024
+
+Deep Learning (TAMU-CC, COSC 6339) - Fall 2024
+
+Database Management Systems (TAMU-CC, COSC 6336) - Fall 2023
